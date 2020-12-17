@@ -2,3 +2,4 @@
 LCD2004, BMP180, DS1307, SDcard, PressurePlot.
 
 How to plot a graf with custom LCD symbols.
+Remember to create SD card image file.
